@@ -1,0 +1,14 @@
+langchain
+fastapi
+sentence-transformers
+pymupdf
+ragas
+python-dotenv
+ftfy rapidfuzz
+rank_bm25
+langchain-pinecone
+# langchain-openai
+langchain-groq
+langchain-community
+langchain-core
+-e .

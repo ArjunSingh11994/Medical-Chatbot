@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: llm_medical_chatbot
+Version: 1.0.0
+Summary: Medical chatbot using LangChain and LLM
+Author: Arjun Singh
+Requires-Python: >=3.10
+Requires-Dist: langchain
+Requires-Dist: faiss-cpu
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
